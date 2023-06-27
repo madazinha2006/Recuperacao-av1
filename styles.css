@@ -1,0 +1,25 @@
+.roxo {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.preto {
+    background-color: black;
+    color: aliceblue;
+}
+.azul {
+    background-color: blue;
+    color: aliceblue;
+}
+.verde {
+    background-color: green;
+    color: black;
+}
+.vermelho {
+    background-color: red;
+    color: black;
+}
+p {
+    color: black;
+    font-size: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
